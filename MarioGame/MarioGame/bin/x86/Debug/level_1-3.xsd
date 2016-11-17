@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="level">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="player">
+          <xs:complexType>
+            <xs:attribute name="x" type="xs:unsignedByte" use="required" />
+            <xs:attribute name="y" type="xs:unsignedByte" use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="blocks">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:choice maxOccurs="unbounded">
+                <xs:element maxOccurs="unbounded" name="block">
+                  <xs:complexType>
+                    <xs:attribute name="id" type="xs:string" use="required" />
+                    <xs:attribute name="x" type="xs:unsignedByte" use="required" />
+                    <xs:attribute name="y" type="xs:unsignedByte" use="required" />
+                    <xs:attribute name="repeat" type="xs:unsignedByte" use="required" />
+                    <xs:attribute name="value" type="xs:string" use="required" />
+                  </xs:complexType>
+                </xs:element>
+                <xs:element name="mblock">
+                  <xs:complexType>
+                    <xs:attribute name="id" type="xs:string" use="required" />
+                    <xs:attribute name="x" type="xs:unsignedByte" use="required" />
+                    <xs:attribute name="y" type="xs:unsignedByte" use="required" />
+                    <xs:attribute name="repeat" type="xs:unsignedByte" use="required" />
+                    <xs:attribute name="speed" type="xs:unsignedByte" use="required" />
+                    <xs:attribute name="start" type="xs:unsignedByte" use="required" />
+                    <xs:attribute name="finish" type="xs:unsignedByte" use="required" />
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="enemies">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="enemy">
+                <xs:complexType>
+                  <xs:attribute name="id" type="xs:string" use="required" />
+                  <xs:attribute name="x" type="xs:unsignedByte" use="required" />
+                  <xs:attribute name="y" type="xs:unsignedByte" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="powups">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="pow">
+                <xs:complexType>
+                  <xs:attribute name="id" type="xs:string" use="required" />
+                  <xs:attribute name="x" type="xs:unsignedByte" use="required" />
+                  <xs:attribute name="y" type="xs:unsignedByte" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="check">
+          <xs:complexType>
+            <xs:attribute name="x" type="xs:unsignedByte" use="required" />
+            <xs:attribute name="y" type="xs:unsignedByte" use="required" />
+            <xs:attribute name="uid" type="xs:unsignedByte" use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="flag">
+          <xs:complexType>
+            <xs:attribute name="x" type="xs:unsignedByte" use="required" />
+            <xs:attribute name="y" type="xs:unsignedByte" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="x" type="xs:unsignedByte" use="required" />
+      <xs:attribute name="y" type="xs:unsignedByte" use="required" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

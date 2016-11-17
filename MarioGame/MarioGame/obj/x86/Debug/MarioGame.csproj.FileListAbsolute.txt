@@ -1,0 +1,50 @@
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\obj\x86\Debug\MarioGame.csprojResolveAssemblyReference.cache
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\big mario.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\big star mario.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\fire mario.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\mini mario.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\mini star mario.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\items sprite sheet.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\block.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Layer1.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Layer2.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Layer3.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Layer4.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Layer5.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Layer6.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\flag.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\goomba.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\koopa.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\checkpoint.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\HUD.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\numbers.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\gameover.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\SMW_title.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\bgm.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\jump.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\1_up.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\power_up.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\brick_bounce.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\break_block.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\coin.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\death.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\enemy_bounce.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\course_clear.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\time_warning.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\game_over.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\checkpoint.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\title_bgm.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\font.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\MarioGame.exe
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\MarioGame.pdb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\obj\x86\Debug\MarioGame.exe
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\obj\x86\Debug\MarioGame.pdb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\fireball.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\big luigi.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\fire luigi.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\mini luigi.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\fireball luigi.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\big star luigi.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\mini star luigi.xnb
+C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\fireball.xnb

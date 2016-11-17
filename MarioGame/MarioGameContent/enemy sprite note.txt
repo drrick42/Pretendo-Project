@@ -1,0 +1,7 @@
+sprite size - 16 x 27
+row 1 - green koopa
+--walking frames 0-2, shell frames 3-5
+row 2 - red koopa
+--walking frames 0-2, shell frames 3-5
+row 3 - goomba
+--walking frames 0-1, death frames 0-1(upside down + falling off-screen)

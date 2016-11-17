@@ -1,0 +1,2 @@
+obstacle sprite size - 16 x 16
+sprite sheet size - 10 x 3 (30 sprites)

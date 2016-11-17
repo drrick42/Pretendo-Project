@@ -1,0 +1,44 @@
+Content\big mario.xnb
+Content\big star mario.xnb
+Content\fire mario.xnb
+Content\mini mario.xnb
+Content\mini star mario.xnb
+Content\items sprite sheet.xnb
+Content\block.xnb
+Content\Layer1.xnb
+Content\Layer2.xnb
+Content\Layer3.xnb
+Content\Layer4.xnb
+Content\Layer5.xnb
+Content\Layer6.xnb
+Content\flag.xnb
+Content\goomba.xnb
+Content\koopa.xnb
+Content\checkpoint.xnb
+Content\HUD.xnb
+Content\numbers.xnb
+Content\gameover.xnb
+Content\SMW_title.xnb
+Content\Audio\bgm.xnb
+Content\Audio\jump.xnb
+Content\Audio\1_up.xnb
+Content\Audio\power_up.xnb
+Content\Audio\brick_bounce.xnb
+Content\Audio\break_block.xnb
+Content\Audio\coin.xnb
+Content\Audio\death.xnb
+Content\Audio\enemy_bounce.xnb
+Content\Audio\course_clear.xnb
+Content\Audio\time_warning.xnb
+Content\Audio\game_over.xnb
+Content\Audio\checkpoint.xnb
+Content\Audio\title_bgm.xnb
+Content\font.xnb
+Content\fireball.xnb
+Content\big luigi.xnb
+Content\fire luigi.xnb
+Content\mini luigi.xnb
+Content\fireball luigi.xnb
+Content\big star luigi.xnb
+Content\mini star luigi.xnb
+Content\Audio\fireball.xnb

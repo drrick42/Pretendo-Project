@@ -1,0 +1,2 @@
+We had a previous design for the mario and enemy sprites. We have decided to go with a new design but also keep the old design for now.
+The new design is found under the experimental folder with filenames like "FileName1.cs"

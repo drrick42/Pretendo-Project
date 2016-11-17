@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>big mario.png</Source>
+      <Name>big mario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\big mario.xnb</Output>
+      <Time>2015-11-26T20:56:01.1966557-05:00</Time>
+    </Item>
+    <Item>
+      <Source>big star mario.png</Source>
+      <Name>big star mario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\big star mario.xnb</Output>
+      <Time>2015-11-26T20:56:01.2591845-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fire mario.png</Source>
+      <Name>fire mario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\fire mario.xnb</Output>
+      <Time>2015-11-26T20:56:01.3372883-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mini mario.png</Source>
+      <Name>mini mario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\mini mario.xnb</Output>
+      <Time>2015-11-26T20:56:02.8685325-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mini star mario.png</Source>
+      <Name>mini star mario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\mini star mario.xnb</Output>
+      <Time>2015-11-26T20:56:02.8372819-05:00</Time>
+    </Item>
+    <Item>
+      <Source>items sprite sheet.png</Source>
+      <Name>items sprite sheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\items sprite sheet.xnb</Output>
+      <Time>2015-11-26T20:56:01.6029068-05:00</Time>
+    </Item>
+    <Item>
+      <Source>block.png</Source>
+      <Name>block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\block.xnb</Output>
+      <Time>2015-12-01T17:58:07.2139348-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Layer1.jpg</Source>
+      <Name>Layer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Layer1.xnb</Output>
+      <Time>2015-11-26T20:56:01.6654054-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Layer2.png</Source>
+      <Name>Layer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Layer2.xnb</Output>
+      <Time>2015-12-01T17:13:43.1330529-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Layer3.png</Source>
+      <Name>Layer3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Layer3.xnb</Output>
+      <Time>2015-12-01T17:13:43.2580777-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Layer4.png</Source>
+      <Name>Layer4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Layer4.xnb</Output>
+      <Time>2015-12-01T17:13:43.2737081-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Layer5.png</Source>
+      <Name>Layer5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Layer5.xnb</Output>
+      <Time>2015-12-01T17:13:43.3518027-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Layer6.png</Source>
+      <Name>Layer6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Layer6.xnb</Output>
+      <Time>2015-12-01T17:13:43.6955789-05:00</Time>
+    </Item>
+    <Item>
+      <Source>flag.png</Source>
+      <Name>flag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\flag.xnb</Output>
+      <Time>2015-11-26T20:56:01.4310385-05:00</Time>
+    </Item>
+    <Item>
+      <Source>goomba.png</Source>
+      <Name>goomba</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\goomba.xnb</Output>
+      <Time>2015-11-26T20:56:01.4466802-05:00</Time>
+    </Item>
+    <Item>
+      <Source>koopa.png</Source>
+      <Name>koopa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\koopa.xnb</Output>
+      <Time>2015-11-26T20:56:01.6185331-05:00</Time>
+    </Item>
+    <Item>
+      <Source>checkpoint.png</Source>
+      <Name>checkpoint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\checkpoint.xnb</Output>
+      <Time>2015-11-26T20:56:01.3060649-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD.png</Source>
+      <Name>HUD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\HUD.xnb</Output>
+      <Time>2015-12-03T17:06:25.05059-05:00</Time>
+    </Item>
+    <Item>
+      <Source>numbers.png</Source>
+      <Name>numbers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\numbers.xnb</Output>
+      <Time>2015-12-03T17:06:25.4102857-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.png</Source>
+      <Name>gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Time>2015-12-01T17:13:43.1330529-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SMW_title.png</Source>
+      <Name>SMW_title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\SMW_title.xnb</Output>
+      <Time>2015-12-01T17:13:43.3830845-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\bgm.wav</Source>
+      <Name>Audio\bgm</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\bgm.xnb</Output>
+      <Time>2015-12-01T17:13:48.3240577-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\jump.wav</Source>
+      <Name>Audio\jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\jump.xnb</Output>
+      <Time>2015-11-26T20:56:04.1662479-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\1_up.wav</Source>
+      <Name>Audio\1_up</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\1_up.xnb</Output>
+      <Time>2015-11-26T20:56:03.5878714-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\power_up.wav</Source>
+      <Name>Audio\power_up</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\power_up.xnb</Output>
+      <Time>2015-11-26T20:56:04.1349968-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\brick_bounce.wav</Source>
+      <Name>Audio\brick_bounce</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\brick_bounce.xnb</Output>
+      <Time>2015-11-26T20:56:03.0716575-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\break_block.wav</Source>
+      <Name>Audio\break_block</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\break_block.xnb</Output>
+      <Time>2015-11-26T20:56:03.040409-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\coin.wav</Source>
+      <Name>Audio\coin</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\coin.xnb</Output>
+      <Time>2015-11-26T20:56:03.2284905-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\death.wav</Source>
+      <Name>Audio\death</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\death.xnb</Output>
+      <Time>2015-11-26T20:56:03.7441191-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\enemy_bounce.wav</Source>
+      <Name>Audio\enemy_bounce</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\enemy_bounce.xnb</Output>
+      <Time>2015-11-26T20:56:03.9316425-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\course_clear.wav</Source>
+      <Name>Audio\course_clear</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\course_clear.xnb</Output>
+      <Time>2015-11-26T20:56:04.1506221-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\time_warning.wav</Source>
+      <Name>Audio\time_warning</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\time_warning.xnb</Output>
+      <Time>2015-11-26T20:56:04.5725344-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\game_over.wav</Source>
+      <Name>Audio\game_over</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\game_over.xnb</Output>
+      <Time>2015-11-26T20:56:04.2287485-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\checkpoint.wav</Source>
+      <Name>Audio\checkpoint</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\checkpoint.xnb</Output>
+      <Time>2015-11-26T20:56:03.2128883-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\title_bgm.wav</Source>
+      <Name>Audio\title_bgm</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\title_bgm.xnb</Output>
+      <Time>2015-12-01T17:13:50.2795071-05:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2015-12-01T17:13:43.1018023-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fireball.png</Source>
+      <Name>fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\fireball.xnb</Output>
+      <Time>2015-11-30T19:31:24.8308023-05:00</Time>
+    </Item>
+    <Item>
+      <Source>big luigi.png</Source>
+      <Name>big luigi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\big luigi.xnb</Output>
+      <Time>2015-12-03T17:06:25.3946784-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fire luigi.png</Source>
+      <Name>fire luigi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\fire luigi.xnb</Output>
+      <Time>2015-12-01T23:03:21.7454986-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mini luigi.png</Source>
+      <Name>mini luigi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\mini luigi.xnb</Output>
+      <Time>2015-12-03T17:06:25.4102857-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fireball luigi.png</Source>
+      <Name>fireball luigi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\fireball luigi.xnb</Output>
+      <Time>2015-12-02T09:31:37.1095059-05:00</Time>
+    </Item>
+    <Item>
+      <Source>big star luigi.png</Source>
+      <Name>big star luigi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\big star luigi.xnb</Output>
+      <Time>2015-12-03T17:06:25.0349641-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mini star luigi.png</Source>
+      <Name>mini star luigi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\mini star luigi.xnb</Output>
+      <Time>2015-12-03T17:06:25.4102857-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\fireball.wav</Source>
+      <Name>Audio\fireball</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\Audio\fireball.xnb</Output>
+      <Time>2015-12-03T23:38:17.5955705-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3EF81B79-06C5-4238-A17C-22AF0CAC316C}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\derrick\Documents\cse3902\Sprint5\SuperMarioBrosS5\MarioGame\MarioGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-09-05T12:14:46.9335538-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

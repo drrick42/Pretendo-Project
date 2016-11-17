@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarioGame", "MarioGame\MarioGame\MarioGame.csproj", "{2D63F3BF-BFB4-4DCC-91CB-2DA04ED3DA0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarioGameContent", "MarioGame\MarioGameContent\MarioGameContent.contentproj", "{3EF81B79-06C5-4238-A17C-22AF0CAC316C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://kenmhayes.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MarioGame\\MarioGame\\MarioGame.csproj
+		SccProjectName1 = MarioGame/MarioGame
+		SccLocalPath1 = MarioGame\\MarioGame
+		SccProjectUniqueName2 = MarioGame\\MarioGameContent\\MarioGameContent.contentproj
+		SccProjectName2 = MarioGame/MarioGameContent
+		SccLocalPath2 = MarioGame\\MarioGameContent
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D63F3BF-BFB4-4DCC-91CB-2DA04ED3DA0A}.Debug|x86.ActiveCfg = Debug|x86
+		{2D63F3BF-BFB4-4DCC-91CB-2DA04ED3DA0A}.Debug|x86.Build.0 = Debug|x86
+		{2D63F3BF-BFB4-4DCC-91CB-2DA04ED3DA0A}.Release|x86.ActiveCfg = Release|x86
+		{2D63F3BF-BFB4-4DCC-91CB-2DA04ED3DA0A}.Release|x86.Build.0 = Release|x86
+		{3EF81B79-06C5-4238-A17C-22AF0CAC316C}.Debug|x86.ActiveCfg = Debug|x86
+		{3EF81B79-06C5-4238-A17C-22AF0CAC316C}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level x="160" y="84">
+  <player x="2" y="80"/>
+  <blocks>
+    <block id="FloorBlock" x="0" y="84" repeat="19" value="GROUND"/>
+    <block id="FloorBlock" x="19" y="84" repeat="1" value="REDGE"/>
+    <block id="FloorBlock" x="0" y="83" repeat="19" value="GROUND"/>
+    <block id="FloorBlock" x="19" y="83" repeat="1" value="REDGE"/>
+    <block id="FloorBlock" x="0" y="82" repeat="19" value="GROUND"/>
+    <block id="FloorBlock" x="19" y="82" repeat="1" value="REDGE"/>
+    <block id="FloorBlock" x="0" y="81" repeat="19" value="NFLOOR"/>
+    <block id="FloorBlock" x="19" y="81" repeat="1" value="RCEDGE"/>
+    
+    <block id="PyramidBlock" x="4" y="80" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="5" y="79" repeat="2" value="null"/>
+    <block id="PyramidBlock" x="6" y="78" repeat="1" value="null"/>
+    
+    <block id="BrickBlock" x="9" y="76" repeat="2" value="null"/>
+    <block id="QuestionBlock" x="11" y="76" repeat="1" value="Coin"/>
+    <block id="QuestionBlock" x="12" y="76" repeat="1" value="Mushroom"/>
+    <block id="BrickBlock" x="13" y="76" repeat="1" value="Coin"/>
+    <block id="BrickBlock" x="14" y="76" repeat="1" value="null"/>
+    <block id="QuestionBlock" x="15" y="76" repeat="1" value="Coin"/>
+    
+    <block id="PyramidBlock" x="18" y="80" repeat="1" value="null"/>
+    
+    <mblock id="Vertical" x="19" y="68" repeat="3" speed="30" start="68" finish="75"/>
+    
+    <block id="FloorBlock" x="8" y="68" repeat="1" value="NWFLOOR"/>
+    <block id="FloorBlock" x="9" y="68" repeat="6" value="NFLOOR"/>
+    <block id="FloorBlock" x="15" y="68" repeat="1" value="NEFLOOR"/>
+    <block id="FloorBlock" x="8" y="69" repeat="1" value="SWFLOOR"/>
+    <block id="FloorBlock" x="9" y="69" repeat="6" value="SFLOOR"/>
+    <block id="FloorBlock" x="15" y="69" repeat="1" value="SEFLOOR"/>
+    
+    <block id="PyramidBlock" x="9" y="67" repeat="2" value="null"/>
+    <block id="PyramidBlock" x="9" y="66" repeat="1" value="null"/>
+    
+    <block id="BrickBlock" x="12" y="62" repeat="1" value="Coin"/>
+    <block id="QuestionBlock" x="13" y="62" repeat="1" value="Mushroom"/>
+    <block id="BrickBlock" x="14" y="62" repeat="1" value="Coin"/>
+    
+    <mblock id="Horizontal" x="17" y="62" repeat="3" speed="30" start="17" finish="26"/>
+
+    <mblock id="Vertical" x="31" y="53" repeat="3" speed="30" start="53" finish="62"/>
+
+    <block id="FloorBlock" x="0" y="54" repeat="11" value="NFLOOR"/>
+    <block id="FloorBlock" x="11" y="54" repeat="1" value="NEFLOOR"/>
+    <block id="FloorBlock" x="0" y="55" repeat="11" value="SFLOOR"/>
+    <block id="FloorBlock" x="11" y="55" repeat="1" value="SEFLOOR"/>
+
+    <block id="PyramidBlock" x="0" y="44" repeat="10" value="VRepeat"/>
+    <block id="PyramidBlock" x="1" y="44" repeat="10" value="VRepeat"/>
+    <block id="PyramidBlock" x="2" y="44" repeat="10" value="VRepeat"/>
+    <block id="PyramidBlock" x="3" y="44" repeat="10" value="VRepeat"/>
+    <block id="PyramidBlock" x="4" y="44" repeat="10" value="VRepeat"/>
+
+    <block id="BrickBlock" x="5" y="46" repeat="1" value="Star"/>
+    <block id="BrickBlock" x="6" y="46" repeat="1" value="null"/>
+
+    <block id="BrickBlock" x="5" y="50" repeat="1" value="OneUp"/>
+    <block id="BrickBlock" x="6" y="50" repeat="1" value="null"/>
+    <block id="BrickBlock" x="7" y="50" repeat="1" value="null"/>
+    <block id="BrickBlock" x="8" y="50" repeat="1" value="Coin"/>
+
+    <block id="FloorBlock" x="16" y="54" repeat="1" value="NWFLOOR"/>
+    <block id="FloorBlock" x="17" y="54" repeat="11" value="NFLOOR"/>
+    <block id="FloorBlock" x="28" y="54" repeat="1" value="NEFLOOR"/>
+    <block id="FloorBlock" x="16" y="55" repeat="1" value="SWFLOOR"/>
+    <block id="FloorBlock" x="17" y="55" repeat="11" value="SFLOOR"/>
+    <block id="FloorBlock" x="28" y="55" repeat="1" value="SEFLOOR"/>
+    
+    <block id="PyramidBlock" x="17" y="53" repeat="4" value="null"/>
+    <block id="PyramidBlock" x="17" y="52" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="17" y="51" repeat="2" value="null"/>
+    <block id="PyramidBlock" x="17" y="50" repeat="1" value="null"/>
+
+    <block id="BrickBlock" x="20" y="47" repeat="1" value="Coin"/>
+    <block id="BrickBlock" x="21" y="47" repeat="1" value="Coin"/>
+    <block id="BrickBlock" x="22" y="47" repeat="1" value="Flower"/>
+    
+    <block id="BrickBlock" x="25" y="47" repeat="1" value="null"/>
+    <block id="BrickBlock" x="26" y="47" repeat="1" value="Coin"/>
+    <block id="BrickBlock" x="27" y="47" repeat="1" value="Coin"/>
+
+    <block id="FloorBlock" x="9" y="41" repeat="1" value="NWFLOOR"/>
+    <block id="FloorBlock" x="10" y="41" repeat="4" value="NFLOOR"/>
+    <block id="FloorBlock" x="14" y="41" repeat="1" value="NEFLOOR"/>
+    <block id="FloorBlock" x="9" y="42" repeat="1" value="SWFLOOR"/>
+    <block id="FloorBlock" x="10" y="42" repeat="4" value="SFLOOR"/>
+    <block id="FloorBlock" x="14" y="42" repeat="1" value="SEFLOOR"/>
+    
+    <mblock id="Horizontal" x="30" y="48" repeat="3" speed="30" start="30" finish="36"/>
+    <mblock id="Horizontal" x="39" y="48" repeat="3" speed="30" start="39" finish="42"/>
+
+    <mblock id="Horizontal" x="36" y="39" repeat="5" speed="40" start="36" finish="55"/>
+    <block id="PyramidBlock" x="39" y="38" repeat="1" value="null"/>
+    <block id="PyramidBlock" x="44" y="38" repeat="1" value="null"/>
+    <block id="PyramidBlock" x="49" y="38" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="50" y="37" repeat="1" value="null"/>
+
+    <block id="FloorBlock" x="47" y="48" repeat="1" value="NWFLOOR"/>
+    <block id="FloorBlock" x="48" y="48" repeat="4" value="NFLOOR"/>
+    <block id="FloorBlock" x="52" y="48" repeat="1" value="NEFLOOR"/>
+    <block id="FloorBlock" x="47" y="49" repeat="1" value="SWFLOOR"/>
+    <block id="FloorBlock" x="48" y="49" repeat="4" value="SFLOOR"/>
+    <block id="FloorBlock" x="52" y="49" repeat="1" value="SEFLOOR"/>
+
+    <block id="FloorBlock" x="55" y="48" repeat="1" value="NWFLOOR"/>
+    <block id="FloorBlock" x="56" y="48" repeat="5" value="NFLOOR"/>
+    <block id="FloorBlock" x="61" y="48" repeat="1" value="NEFLOOR"/>
+    <block id="FloorBlock" x="55" y="49" repeat="1" value="SWFLOOR"/>
+    <block id="FloorBlock" x="56" y="49" repeat="5" value="SFLOOR"/>
+    <block id="FloorBlock" x="61" y="49" repeat="1" value="SEFLOOR"/>
+
+    <block id="PyramidBlock" x="49" y="47" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="50" y="46" repeat="2" value="null"/>
+    <block id="PyramidBlock" x="51" y="45" repeat="1" value="null"/>
+
+    <block id="PyramidBlock" x="56" y="47" repeat="5" value="null"/>
+    <block id="PyramidBlock" x="56" y="46" repeat="5" value="null"/>
+    <block id="PyramidBlock" x="56" y="45" repeat="5" value="null"/>
+    <block id="PyramidBlock" x="57" y="44" repeat="4" value="null"/>
+    <block id="PyramidBlock" x="58" y="43" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="59" y="42" repeat="2" value="null"/>
+    <block id="PyramidBlock" x="60" y="41" repeat="1" value="null"/>
+
+    <mblock id="Vertical" x="64" y="43" repeat="3" speed="30" start="43" finish="48"/>
+
+    <block id="FloorBlock" x="31" y="38" repeat="1" value="NWFLOOR"/>
+    <block id="FloorBlock" x="32" y="38" repeat="1" value="NFLOOR"/>
+    <block id="FloorBlock" x="33" y="38" repeat="1" value="NEFLOOR"/>
+    <block id="FloorBlock" x="31" y="39" repeat="1" value="SWFLOOR"/>
+    <block id="FloorBlock" x="32" y="39" repeat="1" value="SFLOOR"/>
+    <block id="FloorBlock" x="33" y="39" repeat="1" value="SEFLOOR"/>
+
+    <block id="FloorBlock" x="25" y="38" repeat="1" value="NWFLOOR"/>
+    <block id="FloorBlock" x="26" y="38" repeat="1" value="NFLOOR"/>
+    <block id="FloorBlock" x="27" y="38" repeat="1" value="NEFLOOR"/>
+    <block id="FloorBlock" x="25" y="39" repeat="1" value="SWFLOOR"/>
+    <block id="FloorBlock" x="26" y="39" repeat="1" value="SFLOOR"/>
+    <block id="FloorBlock" x="27" y="39" repeat="1" value="SEFLOOR"/>
+
+    <block id="FloorBlock" x="19" y="35" repeat="1" value="NWFLOOR"/>
+    <block id="FloorBlock" x="20" y="35" repeat="1" value="NFLOOR"/>
+    <block id="FloorBlock" x="21" y="35" repeat="1" value="NEFLOOR"/>
+    <block id="FloorBlock" x="19" y="36" repeat="1" value="SWFLOOR"/>
+    <block id="FloorBlock" x="20" y="36" repeat="1" value="SFLOOR"/>
+    <block id="FloorBlock" x="21" y="36" repeat="1" value="SEFLOOR"/>
+
+    <mblock id="Vertical" x="14" y="22" repeat="3" speed="30" start="22" finish="35"/>
+
+    <block id="FloorBlock" x="17" y="23" repeat="1" value="NWFLOOR"/>
+    <block id="FloorBlock" x="18" y="23" repeat="46" value="NFLOOR"/>
+    <block id="FloorBlock" x="64" y="23" repeat="1" value="NEFLOOR"/>
+    <block id="FloorBlock" x="17" y="24" repeat="1" value="WFLOOR"/>
+    <block id="FloorBlock" x="18" y="24" repeat="46" value="GROUND"/>
+    <block id="FloorBlock" x="64" y="24" repeat="1" value="EFLOOR"/>
+    <block id="FloorBlock" x="17" y="25" repeat="1" value="SWFLOOR"/>
+    <block id="FloorBlock" x="18" y="25" repeat="46" value="SFLOOR"/>
+    <block id="FloorBlock" x="64" y="25" repeat="1" value="SEFLOOR"/>
+
+    <block id="BrickBlock" x="29" y="19" repeat="1" value="null"/>
+    <block id="BrickBlock" x="30" y="19" repeat="1" value="null"/>
+    <block id="BrickBlock" x="31" y="19" repeat="1" value="null"/>
+    <block id="BrickBlock" x="32" y="19" repeat="1" value="null"/>
+
+    <block id="BrickBlock" x="35" y="19" repeat="1" value="Coin"/>
+    <block id="BrickBlock" x="36" y="19" repeat="1" value="Coin"/>
+    <block id="BrickBlock" x="37" y="19" repeat="1" value="Coin"/>
+    <block id="BrickBlock" x="38" y="19" repeat="1" value="Mushroom"/>
+
+    <block id="BrickBlock" x="35" y="15" repeat="1" value="Star"/>
+    <block id="BrickBlock" x="36" y="15" repeat="1" value="null"/>
+    <block id="BrickBlock" x="37" y="15" repeat="1" value="null"/>
+    <block id="BrickBlock" x="38" y="15" repeat="1" value="Flower"/>
+
+    <block id="BrickBlock" x="41" y="19" repeat="1" value="Coin"/>
+    <block id="BrickBlock" x="42" y="19" repeat="1" value="Coin"/>
+    <block id="BrickBlock" x="43" y="19" repeat="1" value="null"/>
+    <block id="BrickBlock" x="44" y="19" repeat="1" value="null"/>
+
+    <block id="PyramidBlock" x="48" y="22" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="49" y="21" repeat="2" value="null"/>
+    <block id="PyramidBlock" x="50" y="20" repeat="1" value="null"/>
+
+    <block id="PyramidBlock" x="56" y="22" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="57" y="21" repeat="2" value="null"/>
+    <block id="PyramidBlock" x="58" y="20" repeat="1" value="null"/>
+
+    <block id="PyramidBlock" x="61" y="22" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="61" y="21" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="61" y="20" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="61" y="19" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="62" y="18" repeat="2" value="null"/>
+    <block id="PyramidBlock" x="63" y="17" repeat="1" value="null"/>
+
+    <mblock id="Vertical" x="68" y="14" repeat="3" speed="40" start="14" finish="22"/>
+
+    <block id="FloorBlock" x="75" y="17" repeat="1" value="NWFLOOR"/>
+    <block id="FloorBlock" x="76" y="17" repeat="9" value="NFLOOR"/>
+    <block id="FloorBlock" x="85" y="17" repeat="1" value="NEFLOOR"/>
+    <block id="FloorBlock" x="75" y="18" repeat="1" value="SWFLOOR"/>
+    <block id="FloorBlock" x="76" y="18" repeat="9" value="SFLOOR"/>
+    <block id="FloorBlock" x="85" y="18" repeat="1" value="SEFLOOR"/>
+
+    <block id="PyramidBlock" x="76" y="16" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="76" y="15" repeat="2" value="null"/>
+    <block id="PyramidBlock" x="76" y="14" repeat="1" value="null"/>
+
+    <block id="PyramidBlock" x="84" y="16" repeat="1" value="null"/>
+
+    <block id="BrickBlock" x="80" y="13" repeat="1" value="null"/>
+    <block id="BrickBlock" x="81" y="13" repeat="1" value="null"/>
+    <block id="BrickBlock" x="82" y="13" repeat="1" value="null"/>
+
+    <mblock id="Horizontal" x="88" y="16" repeat="5" speed="40" start="88" finish="117"/>
+    <block id="PyramidBlock" x="102" y="15" repeat="1" value="null"/>
+    <block id="PyramidBlock" x="107" y="15" repeat="1" value="null"/>
+    <block id="PyramidBlock" x="95" y="15" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="96" y="14" repeat="1" value="null"/>
+
+    <block id="FloorBlock" x="110" y="13" repeat="1" value="NWFLOOR"/>
+    <block id="FloorBlock" x="111" y="13" repeat="2" value="NFLOOR"/>
+    <block id="FloorBlock" x="113" y="13" repeat="1" value="NEFLOOR"/>
+    <block id="FloorBlock" x="110" y="14" repeat="1" value="SWFLOOR"/>
+    <block id="FloorBlock" x="111" y="14" repeat="2" value="SFLOOR"/>
+    <block id="FloorBlock" x="113" y="14" repeat="1" value="SEFLOOR"/>
+
+    <block id="FloorBlock" x="122" y="16" repeat="1" value="NWFLOOR"/>
+    <block id="FloorBlock" x="123" y="16" repeat="21" value="NFLOOR"/>
+    <block id="FloorBlock" x="144" y="16" repeat="1" value="NEFLOOR"/>
+    <block id="FloorBlock" x="122" y="17" repeat="1" value="WFLOOR"/>
+    <block id="FloorBlock" x="123" y="17" repeat="21" value="GROUND"/>
+    <block id="FloorBlock" x="144" y="17" repeat="1" value="EFLOOR"/>
+    <block id="FloorBlock" x="122" y="18" repeat="1" value="SWFLOOR"/>
+    <block id="FloorBlock" x="123" y="18" repeat="21" value="SFLOOR"/>
+    <block id="FloorBlock" x="144" y="18" repeat="1" value="SEFLOOR"/>
+
+    <block id="BrickBlock" x="135" y="12" repeat="1" value="null"/>
+    <block id="BrickBlock" x="136" y="12" repeat="1" value="Coin"/>
+
+    <block id="BrickBlock" x="141" y="8" repeat="1" value="null"/>
+    <block id="BrickBlock" x="142" y="8" repeat="1" value="Star"/>
+
+    <block id="BrickBlock" x="140" y="12" repeat="1" value="Coin"/>
+    <block id="BrickBlock" x="141" y="12" repeat="1" value="Coin"/>
+    <block id="BrickBlock" x="142" y="12" repeat="1" value="Mushroom"/>
+
+    <block id="BrickBlock" x="146" y="8" repeat="1" value="null"/>
+    <block id="BrickBlock" x="147" y="8" repeat="1" value="Coin"/>
+    <block id="BrickBlock" x="148" y="8" repeat="1" value="Flower"/>
+
+    <block id="BrickBlock" x="145" y="12" repeat="1" value="Coin"/>
+    <block id="BrickBlock" x="146" y="12" repeat="1" value="Coin"/>
+    <block id="BrickBlock" x="147" y="12" repeat="1" value="Coin"/>
+    <block id="BrickBlock" x="148" y="12" repeat="1" value="Coin"/>
+
+    <block id="PyramidBlock" x="158" y="0" repeat="58" value="VRepeat"/>
+    <block id="PyramidBlock" x="159" y="0" repeat="58" value="VRepeat"/>
+
+    <block id="PyramidBlock" x="141" y="19" repeat="26" value="VRepeat"/>
+    <block id="PyramidBlock" x="142" y="19" repeat="26" value="VRepeat"/>
+    <block id="PyramidBlock" x="143" y="19" repeat="26" value="VRepeat"/>
+
+    <block id="PyramidBlock" x="145" y="17" repeat="11" value="null"/>
+    <block id="PyramidBlock" x="146" y="22" repeat="12" value="null"/>
+    <block id="PyramidBlock" x="144" y="27" repeat="12" value="null"/>
+    <block id="PyramidBlock" x="146" y="32" repeat="12" value="null"/>
+
+    <block id="PyramidBlock" x="155" y="16" repeat="1" value="null"/>
+    <block id="PyramidBlock" x="146" y="21" repeat="1" value="null"/>
+    <block id="PyramidBlock" x="155" y="21" repeat="1" value="null"/>
+    <block id="PyramidBlock" x="146" y="26" repeat="1" value="null"/>
+    <block id="PyramidBlock" x="155" y="26" repeat="1" value="null"/>
+    <block id="PyramidBlock" x="146" y="31" repeat="1" value="null"/>
+    <block id="PyramidBlock" x="155" y="31" repeat="1" value="null"/>
+
+    <block id="PyramidBlock" x="144" y="44" repeat="15" value="null"/>
+
+    <mblock id="Vertical" x="156" y="16" repeat="2" speed="20" start="16" finish="21"/>
+    <mblock id="Vertical" x="144" y="21" repeat="2" speed="20" start="21" finish="26"/>
+    <mblock id="Vertical" x="156" y="26" repeat="2" speed="20" start="26" finish="31"/>
+    <mblock id="Vertical" x="144" y="31" repeat="2" speed="20" start="31" finish="36"/>
+
+    <block id="PyramidBlock" x="148" y="41" repeat="3" value="null"/>
+  </blocks>
+  <enemies>
+    <enemy id="Goomba" x="18" y="80"/>
+    <enemy id="Goomba" x="14" y="75"/>
+    <enemy id="Goomba" x="8" y="64"/>
+    <enemy id="Goomba" x="17" y="49"/>
+    <enemy id="Goomba" x="38" y="14"/>
+    <enemy id="Goomba" x="32" y="18"/>
+    <enemy id="Goomba" x="38" y="18"/>
+    <enemy id="Goomba" x="44" y="18"/>
+    <enemy id="Goomba" x="82" y="12"/>
+    <enemy id="Goomba" x="84" y="16"/>
+    <enemy id="Goomba" x="136" y="11"/>
+    <enemy id="Goomba" x="144" y="15"/>
+    <enemy id="Goomba" x="155" y="16"/>
+    <enemy id="Goomba" x="149" y="26"/>
+    <enemy id="Goomba" x="153" y="26"/>
+    
+    <enemy id="GreenKoopa" x="9" y="40"/>
+    <enemy id="GreenKoopa" x="60" y="40"/>
+    <enemy id="GreenKoopa" x="50" y="19"/>
+    <enemy id="GreenKoopa" x="58" y="19"/>
+    <enemy id="GreenKoopa" x="142" y="7"/>
+    <enemy id="GreenKoopa" x="142" y="11"/>
+    <enemy id="GreenKoopa" x="148" y="7"/>
+    <enemy id="GreenKoopa" x="148" y="11"/>
+    <enemy id="GreenKoopa" x="149" y="21"/>
+    <enemy id="GreenKoopa" x="149" y="31"/>
+    <enemy id="GreenKoopa" x="151" y="31"/>
+  </enemies>
+  <powups>
+    <pow id="Coin" x="4" y="79"/>
+    <pow id="Coin" x="5" y="78"/>
+    <pow id="Coin" x="6" y="77"/>
+    <pow id="Coin" x="10" y="74"/>
+    <pow id="Coin" x="12" y="74"/>
+    <pow id="Coin" x="14" y="74"/>
+
+    <pow id="Coin" x="12" y="66"/>
+    <pow id="Coin" x="14" y="66"/>
+    <pow id="Coin" x="9" y="64"/>
+    <pow id="Coin" x="12" y="61"/>
+    <pow id="Coin" x="14" y="61"/>
+    <pow id="Coin" x="18" y="61"/>
+    <pow id="Coin" x="21" y="61"/>
+    <pow id="Coin" x="24" y="61"/>
+    <pow id="Coin" x="27" y="61"/>
+
+    <pow id="Coin" x="23" y="52"/>
+    <pow id="Coin" x="25" y="52"/>
+    <pow id="Coin" x="27" y="52"/>
+
+    <pow id="Coin" x="30" y="45"/>
+    <pow id="Coin" x="34" y="45"/>
+    <pow id="Coin" x="40" y="45"/>
+    <pow id="Coin" x="40" y="45"/>
+    <pow id="Coin" x="53" y="42"/>
+    <pow id="Coin" x="55" y="42"/>
+
+    <pow id="Coin" x="39" y="37"/>
+    <pow id="Coin" x="44" y="37"/>
+    <pow id="Coin" x="50" y="36"/>
+
+    <pow id="Coin" x="20" y="32"/>
+    <pow id="Coin" x="26" y="35"/>
+    <pow id="Coin" x="32" y="35"/>
+
+    <pow id="Coin" x="26" y="21"/>
+    <pow id="Coin" x="29" y="21"/>
+    <pow id="Coin" x="32" y="21"/>
+    <pow id="Coin" x="35" y="21"/>
+    <pow id="Coin" x="38" y="21"/>
+    <pow id="Coin" x="41" y="21"/>
+
+    <pow id="Coin" x="69" y="12"/>
+    <pow id="Coin" x="96" y="12"/>
+    <pow id="Coin" x="102" y="13"/>
+    <pow id="Coin" x="107" y="13"/>
+
+    <pow id="Coin" x="111" y="11"/>
+    <pow id="Coin" x="113" y="11"/>
+
+    <pow id="Coin" x="118" y="12"/>
+    <pow id="Coin" x="120" y="13"/>
+
+    <pow id="Coin" x="150" y="7"/>
+    <pow id="Coin" x="150" y="9"/>
+    <pow id="Coin" x="150" y="11"/>
+    <pow id="Coin" x="150" y="13"/>
+    <pow id="Coin" x="151" y="6"/>
+    <pow id="Coin" x="151" y="8"/>
+    <pow id="Coin" x="151" y="10"/>
+    <pow id="Coin" x="151" y="12"/>
+    <pow id="Coin" x="152" y="7"/>
+    <pow id="Coin" x="152" y="9"/>
+    <pow id="Coin" x="152" y="11"/>
+    <pow id="Coin" x="152" y="13"/>
+    <pow id="Coin" x="153" y="8"/>
+    <pow id="Coin" x="153" y="10"/>
+    <pow id="Coin" x="153" y="12"/>
+    <pow id="Coin" x="154" y="9"/>
+    <pow id="Coin" x="154" y="11"/>
+    <pow id="Coin" x="154" y="13"/>
+    <pow id="Coin" x="155" y="10"/>
+    <pow id="Coin" x="155" y="12"/>
+    <pow id="Coin" x="156" y="11"/>
+    <pow id="Coin" x="156" y="13"/>
+  </powups>
+  <check x ="23" y="22" uid="1"/>
+  <flag x="153" y="43"/>
+</level>

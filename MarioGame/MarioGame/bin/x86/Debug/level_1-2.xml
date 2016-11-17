@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level x="128" y="32">
+  <player x="2" y="29"/>
+  <blocks>
+    
+    <block id="FloorBlock" x="0" y="32" repeat="26" value="GROUND"/>
+    <block id="FloorBlock" x="0" y="31" repeat="26" value="GROUND"/>
+    <block id="FloorBlock" x="0" y="30" repeat="26" value="NFLOOR"/>
+    <block id="FloorBlock" x="26" y="32" repeat="1" value="REDGE"/>
+    <block id="FloorBlock" x="26" y="31" repeat="1" value="REDGE"/>
+    <block id="FloorBlock" x="26" y="30" repeat="1" value="RCEDGE"/>
+
+    <block id="FloorBlock" x="37" y="32" repeat="1" value="LEDGE"/>
+    <block id="FloorBlock" x="37" y="31" repeat="1" value="LEDGE"/>
+    <block id="FloorBlock" x="37" y="30" repeat="1" value="LCEDGE"/>
+    <block id="FloorBlock" x="38" y="32" repeat="17" value="GROUND"/>
+    <block id="FloorBlock" x="38" y="31" repeat="17" value="GROUND"/>
+    <block id="FloorBlock" x="38" y="30" repeat="17" value="NFLOOR"/>
+    <block id="FloorBlock" x="55" y="32" repeat="1" value="REDGE"/>
+    <block id="FloorBlock" x="55" y="31" repeat="1" value="REDGE"/>
+    <block id="FloorBlock" x="55" y="30" repeat="1" value="RCEDGE"/>
+
+    <block id="FloorBlock" x="71" y="32" repeat="1" value="LEDGE"/>
+    <block id="FloorBlock" x="71" y="31" repeat="1" value="LEDGE"/>
+    <block id="FloorBlock" x="71" y="30" repeat="1" value="LCEDGE"/>
+    <block id="FloorBlock" x="72" y="32" repeat="50" value="GROUND"/>
+    <block id="FloorBlock" x="72" y="31" repeat="50" value="GROUND"/>
+    <block id="FloorBlock" x="72" y="30" repeat="50" value="NFLOOR"/>
+    <block id="FloorBlock" x="122" y="32" repeat="1" value="REDGE"/>
+    <block id="FloorBlock" x="122" y="31" repeat="1" value="REDGE"/>
+    <block id="FloorBlock" x="122" y="30" repeat="1" value="RCEDGE"/>
+
+    <block id="PyramidBlock" x="4" y="29" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="5" y="28" repeat="2" value="null"/>
+    <block id="PyramidBlock" x="6" y="27" repeat="1" value="null"/>
+
+    <block id="BrickBlock" x="10" y="25" repeat="1" value="Flower"/>
+    <block id="BrickBlock" x="11" y="25" repeat="2" value="null"/>
+    <block id="QuestionBlock" x="13" y="25" repeat="1" value="Star"/>
+    <block id="QuestionBlock" x="14" y="25" repeat="1" value="OneUp"/>
+    <block id="BrickBlock" x="15" y="25" repeat="3" value="null"/>
+    <block id="QuestionBlock" x="18" y="25" repeat="1" value="Mushroom"/>
+
+    <block id="PyramidBlock" x="22" y="29" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="22" y="28" repeat="2" value="null"/>
+    <block id="PyramidBlock" x="22" y="27" repeat="1" value="null"/>
+
+    <block id="BrickBlock" x="27" y="26" repeat="1" value="OneUp"/>
+    <block id="BrickBlock" x="28" y="26" repeat="7" value="null"/>
+
+    <block id="PyramidBlock" x="50" y="29" repeat="5" value="null"/>
+    <block id="PyramidBlock" x="51" y="28" repeat="4" value="null"/>
+    <block id="PyramidBlock" x="52" y="27" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="53" y="26" repeat="2" value="null"/>
+    <block id="PyramidBlock" x="54" y="25" repeat="1" value="null"/>
+
+    <block id="BrickBlock" x="57" y="23" repeat="10" value="null"/>
+    <block id="BrickBlock" x="72" y="23" repeat="36" value="null"/>
+
+    <block id="PyramidBlock" x="75" y="29" repeat="1" value="null"/>
+
+    <block id="PyramidBlock" x="82" y="29" repeat="1" value="null"/>
+    <block id="PyramidBlock" x="90" y="29" repeat="1" value="null"/>
+
+    <block id="PyramidBlock" x="107" y="29" repeat="3" value="null"/>
+    <block id="PyramidBlock" x="108" y="28" repeat="2" value="null"/>
+    <block id="PyramidBlock" x="109" y="27" repeat="1" value="null"/>
+    
+    
+  </blocks>
+  <enemies>
+    <enemy id="GreenKoopa" x="10" y="29"/>
+    <enemy id="Goomba" x="54" y="24"/>
+    <enemy id="Goomba" x="80" y="29"/>
+    <enemy id="GreenKoopa" x="85" y="29"/>
+    <enemy id="Goomba" x="93" y="29"/>
+    <enemy id="Goomba" x="105" y="29"/>
+  </enemies>
+  <powups>
+    <pow id="Coin" x="13" y="29"/>
+    <pow id="Coin" x="18" y="29"/>
+    <pow id="Coin" x="22" y="26"/>
+    <pow id="Coin" x="23" y="27"/>
+    <pow id="Coin" x="24" y="28"/>
+
+    <pow id="Coin" x="75" y="28"/>
+    <pow id="Coin" x="82" y="28"/>
+    <pow id="Coin" x="90" y="28"/>
+    <pow id="Coin" x="107" y="28"/>
+    <pow id="Coin" x="108" y="27"/>
+    <pow id="Coin" x="109" y="26"/>
+  </powups>
+  <check x ="45" y="29" uid="1"/>
+  <flag x="110" y="29"/>
+</level>

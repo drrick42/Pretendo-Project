@@ -1,0 +1,19 @@
+big mario, fire mario, big star mario sprite size - 16 x 32
+--stationary - sprite 0
+--crouching - sprite 1
+--walking - sprite 2, then 0
+--running - sprite 2, then 0 (faster than walking)
+--falling - sprite 3
+--jumping - sprite 4
+
+mini mario, mini star mario sprite size - 16 x 24
+--stationary - sprite 0
+--crouching - sprite 1
+--walking - sprite 2, then 0
+--running - sprite 2, then 0 (faster than walking)
+--falling - sprite 3
+--jumping - sprite 4
+--dying - sprite 5 (not present on mini star mario)
+
+
+**star marios have a "4-layer" animation sequence that we can play around with**

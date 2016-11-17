@@ -1,0 +1,6 @@
+item sprite size - 16 x 16
+sprite 0 - coin
+sprite 1 - mushroom
+sprite 2 - flower
+sprite 3 - 1-up mushroom
+sprite 4 - star
